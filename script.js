@@ -38,6 +38,9 @@ if (p==0) {
  score++
  $("#score").text(score);
 }
+
+
+// nionvoinvppn
 addfood()
 function change(a,b,c,i) {
         collison()
